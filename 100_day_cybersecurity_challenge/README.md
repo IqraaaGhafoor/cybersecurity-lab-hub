@@ -1,6 +1,6 @@
 # 100-Day Cybersecurity Challenge
 
-Welcome to my **100-day cybersecurity challenge**! This repository serves as a log where I document my learning journey through various aspects of cybersecurity. Each day will bring new challenges, concepts, and tools that I will explore and reflect upon.
+Welcome to my **100-day cybersecurity challenge**! This directory serves as a log where I document my learning journey through various aspects of cybersecurity. Each day will bring new challenges, concepts, and tools that I will explore and reflect upon.
 
 ## Purpose of the Challenge 🎯
 The goal of this challenge is to:
