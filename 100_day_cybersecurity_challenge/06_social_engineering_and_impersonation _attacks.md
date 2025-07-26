@@ -1,5 +1,5 @@
 # Day 6/100: Cybersecurity Challenge! 🚀  
-**Understanding Social Engineering and Impersonation Attacks** 🔐
+**Social Engineering and Impersonation Attacks** 🔐
 
 Welcome to **Day 6** of my **100-day Cybersecurity Challenge**! 🎉  
 Today, I spent time diving deep into **social engineering** techniques and **impersonation attacks**. I learned how attackers trick people into giving away sensitive information or compromising their systems. From **phishing** to **shoulder surfing**, I’ve gained new insights into how these attacks work and how to protect against them. Let me share what I've learned so far! 💻
