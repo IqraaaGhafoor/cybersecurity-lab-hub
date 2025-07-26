@@ -53,23 +53,29 @@ Here are the key resources I used to learn about the concepts covered on Day 4:
 ### **5. Malware Types** 👾  
 Malware comes in many forms, each designed to achieve different malicious goals:  
 - **Viruses**: Programs that spread from one host to another and can corrupt files.  
-  - **Example**: A virus infects a **company’s email system**, corrupting data and stealing login credentials.  
-  - Like a **sickness** that spreads from one person (computer) to another.  
+  - **Example**: A virus infects a **company’s email system**, corrupting data and stealing login credentials.
+
+  Like a **sickness** that spreads from one person (computer) to another.  
 - **Worms**: These are self-replicating programs that do not need a host and can spread across networks.  
   - **Example**: A worm spreads through a **network**, infecting multiple systems without the need for user interaction.  
-  - **Worms** are like **burglars** who don’t need you to open the door. They just **find an open window** and **break in**.  
+  
+  **Worms** are like **burglars** who don’t need you to open the door. They just **find an open window** and **break in**.  
 - **Trojans**: Malware disguised as legitimate software.  
   - **Example**: A user downloads a **Trojan disguised as a software update**, giving the attacker access to their data.  
-  - **Trojans** are like **gifts** that seem **harmless** but hide something **bad inside**. You **invite them** in by mistake.  
+
+  **Trojans** are like **gifts** that seem **harmless** but hide something **bad inside**. You **invite them** in by mistake.  
 - **Ransomware**: Encrypts files and demands payment for decryption.  
   - **Example**: A **hospital’s network** is locked by ransomware, disrupting medical services until a ransom is paid.  
-  - This is like someone **locking you in your house** and demanding money to let you out.  
+  
+  This is like someone **locking you in your house** and demanding money to let you out.  
 - **Spyware**: Collects personal data without consent.  
   - **Example**: A spyware program secretly records **user activity**, including keystrokes and browsing history.  
-  - Spyware is like a **hidden camera** watching your every move at home.  
+  
+  Spyware is like a **hidden camera** watching your every move at home.  
 - **Adware**: Displays intrusive ads and can collect personal data.  
   - **Example**: **Adware** tracks browsing activity to show personalized ads, while also gathering private user information.  
-  - Adware is like **someone putting up ads** on your house for products you didn’t ask for.  
+  
+  Adware is like **someone putting up ads** on your house for products you didn’t ask for.  
 
 ---
 
